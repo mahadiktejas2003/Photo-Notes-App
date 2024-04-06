@@ -12,4 +12,8 @@ A Notes App with Photos built with Jetpack Compose
 ![Alt text for preview screenshot](res/preview.png)
 
 
+**Install the App:**  
+[Download APK](<app-release.apk>)
+
+
 
